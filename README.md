@@ -1,1 +1,1 @@
-# Event-Managment
+# Event-Organization
